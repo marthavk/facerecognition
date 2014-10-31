@@ -1,0 +1,87 @@
+LoadIm
+Comments:tsekare to std otan einai miden. sto face00001 den exei provlima alla nomizo de vgainei kapou 0
+Done
+Working!
+
+
+ComputeBoxSum
+Comments:sto ii_im den ksero gt vazoume(y,x) kai oxi(x,y) an deis kai sto sanity check to idio kanei
+*****EDITED 25/04
+*Vazei y x giati to y antistoixei stis grammes tou pinaka sto matlab opote theloume prwta to ypsos kai meta to platos
+*OMWS
+*Den doulevei gia x = 1 h y = 1. Nomizw katalavainw giati. Outws h allws argotera sthn EnumAllFeatures gi'auto den pairnoume
+*apo x=2 kai y=2 ?
+*****************
+Done
+Working
+
+
+FeatureTypeI
+Comments:
+Done
+Working!
+
+
+FeatureTypeII
+Comments:
+Done
+Working!
+
+
+FeatureTypeIII
+Comments:
+Done
+Working!
+
+
+FeatureTypeIV
+Comments:
+Done
+Working!
+
+EnumAllFeatures
+Comments:1.leei sto pdf:'the entire feature must be included entirely within the image'. auto eksigei gt arxizei apo to 2 (kai oxi apo to 1) to x kai to y(anaferomai sto typeII pou exei sto pdf). gia na einai entirely within the image de tha eprepe na teleionei sto H-h-1 kai W-2*w-1 (tora teleionei sto H-h kai W-2*w)?? den katalavaino to giati.
+******** EDITED 25/04 : Giati otan xrhsimopoihseis thn ComputeBoxSum tha peta3ei lathos an to x h to y einai mikrotera apo 2. 
+* Gia ta de3ia kai katw oriaka noumera omws doulevei kanonika. 
+* otan leei "the SUPPORT of the entire feature" ennoei mallon tis synarthseis pou xrhsimopoiountai... 
+* Aaaaan exw katalavei kala..
+******************************** 
+Done
+Working!
+
+ComputeFeature
+Comments:
+Done
+Working
+
+VecBoxSum
+Done
+Working
+
+VecFeature
+Done
+Working
+
+VecAllFeatures
+Done
+Working
+
+VecComputeFeature
+Done
+Working
+
+LoadSaveImData
+Done
+Working
+
+ComputeSaveFData
+Done
+Working
+
+GetTrainingData
+Done 
+Working
+
+***** Comment added script test_Script for debugging and running reasons. *****
+
+
